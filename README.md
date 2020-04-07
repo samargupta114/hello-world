@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+hi humans 
+i m sam all of the world includes me.
